@@ -9,11 +9,11 @@
 /* Variables */
 
 :root {
-    --main-color: #54b689;
+    --main-color: #1b9cd7;
     --main-text-color:#fff;
-    --border-color:#999;
+    --border-color:#0661e8;
     --bio-bg-color:#1e2a3a;
-    --bio-border-color:#293544;
+    --bio-border-color:#11dbba; 
     --about-bg-color:#111821;
 }
 
